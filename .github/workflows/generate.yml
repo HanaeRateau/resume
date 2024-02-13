@@ -38,4 +38,4 @@ jobs:
       - name: "Download a single artifact"
         uses: actions/download-artifact@v4
         with:
-          name: my-resume-files
+          name: ${{ github.actor }}'s Resume
