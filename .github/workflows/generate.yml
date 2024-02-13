@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'resume.**'
+      - 'generate.yml'
 
 jobs:
   convert_via_pandoc:
