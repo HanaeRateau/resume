@@ -55,7 +55,7 @@ subject: 'Hanaë Rateau Resume'
 **Master of Computer Science, University of Lille, France**
 **<span id=duration>2012</span>**
 
-&emsp;Specialized in Image Vision and Interaction
+&emsp;Specialized in Image Vision and Interaction.
 
 **Bachelor of Computer Science, University of Lyon, France**
 **<span id=duration>2010</span>**
