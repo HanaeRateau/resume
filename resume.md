@@ -15,7 +15,7 @@ subject: 'Hanaë Rateau Resume'
 
 ###### [[ hart@hanaerateau.com](mailto:hart@hanaerateau.com)] . [ [+33637110217](tel:+33637110217) ] . [[Linkedin](https://www.linkedin.com/in/hanaerateau/)]
 
-##### R&D engineer focused on user-centric software development
+##### R&D software engineer focused on user-centric solutions
 
 ## Experience
 ### R&D Software Engineer
