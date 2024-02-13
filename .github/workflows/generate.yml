@@ -35,7 +35,4 @@ jobs:
         with: # basically this will put resume.md, resume.html, resume.pdf and resume.css in a zip file.
           name: ${{ github.actor }}'s Resume
           path: output
-      - name: "Download a single artifact"
-        uses: actions/download-artifact@v4
-        with:
-          name: ${{ github.actor }}'s Resume
+
