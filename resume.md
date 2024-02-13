@@ -70,7 +70,7 @@ subject: 'Hanaë Rateau Resume'
 
 **Programming languages** Javascript, C#, Kotlin, Java, Python, HTML/CSS, C/C++
 
-**Frameworks & Libraries** Git, Docker, Node.js, Vue.js, React.js, Jetpack Compose, Unity, Qt, JavaFX, OpenCV, OpenGL, Blender (API and modeling)
+**Frameworks & Libraries** Git, Docker, Node.js, Vue.js, React.js, Jetpack Compose, Unity, Qt, JavaFX, OpenCV, OpenGL, Blender
 
 **Sensors and Hardware** Hololens, Optitrack, Leap Motion, Kinect, multitouch devices
 
