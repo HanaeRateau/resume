@@ -19,5 +19,5 @@ make tohtml
 ```
 
 ### TODO
-- [ ] Create Release
-- [ ] Fix for ATS to read better the dates
+- [x] Create Release
+- [ ] Fix for ATS to better read the dates
