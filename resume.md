@@ -16,14 +16,15 @@ subject: 'Hanaë Rateau Resume'
 ###### [[ hart@hanaerateau.com](mailto:hart@hanaerateau.com)] . [ [+33637110217](tel:+33637110217) ] . [[Linkedin](https://www.linkedin.com/in/hanaerateau/)]
 
 ##### R&D software engineer focused on user-centric solutions
+###### I am adaptable, autonomous and problem-oriented.  I strive in innovation-focused and tech-oriented environments in which I have to analyze problems and propose novel solutions.
 
 ## Experience
 ### R&D Software Engineer
 **Worldline, France** **<span id=duration>2022-2024</span>**
 
-&emsp;Prototyped, developed and deployed 7 innovative demos related to the future of payment.
+&emsp;Designed, prototyped and deployed 7 innovative demos related to the future of payment.
 
-&emsp;Rapidly familiarized with diverse domains and tech: autonomous payments, virtual reality, digital identity (eIDAS 2.0). 
+&emsp;Rapidly familiarized with diverse tech: autonomous payments, virtual reality, digital identity. 
 
 &emsp;Presented all demos to client meetings and international fairs. 
 
@@ -57,9 +58,6 @@ subject: 'Hanaë Rateau Resume'
 
 &emsp;Specialized in Image Vision and Interaction.
 
-**Bachelor of Computer Science, University of Lyon, France**
-**<span id=duration>2010</span>**
-
 
 ## Skills
 ```programming```
@@ -72,8 +70,8 @@ subject: 'Hanaë Rateau Resume'
 
 **Frameworks & Libraries** Git, Docker, Node.js, Vue.js, React.js, Jetpack Compose, Unity, Qt, JavaFX, OpenCV, OpenGL, Blender
 
-**Sensors and Hardware** Hololens, Optitrack, Leap Motion, Kinect, multitouch devices
+**Sensors and Hardware** Meta Quest, Hololens, Optitrack, Leap Motion, Kinect, multitouch devices
 
 **Environments** Windows, Android, Linux
 
-**Languages** French (native), English(fluent)
+**Languages** French (native), English (fluent)
