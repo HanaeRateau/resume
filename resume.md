@@ -20,6 +20,15 @@ subject: 'Hanaë Rateau Resume'
 
 ## Experience
 ### R&D Software Engineer
+**Flanders Make, Belgium** **<span id=duration>2024-2025</span>**
+
+&emsp;Designed, prototyped and deployed 2 web tools for Digital Work Instructions (DWI).
+
+&emsp;Prototyped AI-based productivity tools
+
+&emsp;Presented the results during client meetings.
+
+### R&D Software Engineer
 **Worldline, France** **<span id=duration>2022-2024</span>**
 
 &emsp;Designed, prototyped and deployed 7 innovative demos related to the future of payment.
@@ -66,9 +75,9 @@ subject: 'Hanaë Rateau Resume'
 ```containers```
 ```versioning```
 
-**Programming languages** Javascript, C#, Kotlin, Java, Python, HTML/CSS, C/C++
+**Programming languages** Javascript, Python, C#, Kotlin, Java, HTML/CSS, C/C++
 
-**Frameworks & Libraries** Git, Docker, Node.js, Vue.js, React.js, Jetpack Compose, Unity, Qt, JavaFX, OpenCV, OpenGL, Blender
+**Frameworks & Libraries** Git, Docker, Node.js, Vue.js, React.js, Jetpack Compose, Unity, Qt, Blender
 
 **Sensors and Hardware** Meta Quest, Hololens, Optitrack, Leap Motion, Kinect, multitouch devices
 
