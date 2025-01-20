@@ -1,8 +1,8 @@
 ---
-margin-left: 2cm
-margin-right: 2cm
+margin-left: 1.5cm
+margin-right: 1.5cm
 margin-top: 1cm
-margin-bottom: 2cm
+margin-bottom: 1cm
 # title: Hanae Rateau
 description-meta: 'Hanaë Rateau Resume. R&D Software engineer. User-centric. Virtual and augmented reality, Unity, C#, Android, Kotlin, Java, Compose, Javascript, JS, Nodejs, expressjs, Vuejs, Reactjs, Docker, full-stack'
 keywords:
@@ -19,8 +19,7 @@ subject: 'Hanaë Rateau Resume'
 ###### I am adaptable, autonomous and problem-oriented.  I strive in innovation-focused and tech-oriented environments in which I have to analyze problems and propose novel solutions.
 
 ## Experience
-### R&D Software Engineer
-**Flanders Make, Belgium** **<span id=duration>2024-2025</span>**
+### R&D Software Engineer | **Flanders Make, Belgium** **<span id=duration>2024-2025</span>**
 
 &emsp;Designed, prototyped and deployed 2 web tools for Digital Work Instructions (DWI).
 
@@ -28,8 +27,7 @@ subject: 'Hanaë Rateau Resume'
 
 &emsp;Presented the results during client meetings.
 
-### R&D Software Engineer
-**Worldline, France** **<span id=duration>2022-2024</span>**
+### R&D Software Engineer | **Worldline, France** **<span id=duration>2022-2024</span>**
 
 &emsp;Designed, prototyped and deployed 7 innovative demos related to the future of payment.
 
@@ -37,32 +35,29 @@ subject: 'Hanaë Rateau Resume'
 
 &emsp;Presented all demos to client meetings and international fairs. 
 
-### Post-Doctoral Researcher
-**University of Waterloo, Canada** **<span id=duration>2019-2022</span>**
+### Post-Doctoral Researcher | **University of Waterloo, Canada** **<span id=duration>2019-2022</span>**
 
 &emsp;Outlined, developed and evaluated 4 novel interaction techniques  for smartwatch and smartphones using gestures made with the user's hands.
 
 &emsp;Published and presented the work to first-tier venues of the field.
 
-### Post-Doctoral Researcher
-**ESTIA, France** **<span id=duration>2017-2019</span>**
+### Post-Doctoral Researcher | **ESTIA, France** **<span id=duration>2017-2019</span>**
 
 &emsp;Designed and developed a multi-device system for maintenance operators. Synchronizing a Hololens headset, a tablet and a digital pen for reading annotating technical documentation.
 
 &emsp;Published and presented the system to scientific venues.
 
-### Teaching Assistant 
-**University of Lille, France** **<span id=duration>2015-2017</span>**
+### Teaching Assistant | **University of Lille, France** **<span id=duration>2015-2017</span>**
 
 &emsp;Teaching computer science courses to undergraduate and graduate students. Spanning from Python introduction to design patterns and networks.
 
 ## Education
-**Ph.D degree in Human-Computer Interaction, University of Lille, France** 
+**Ph.D degree in Human-Computer Interaction | University of Lille, France** 
 **<span id=duration>2017</span>**
 
 &emsp;Exploring Interactive Sub-Space for Gestural Midair Interaction. 
 
-**Master of Computer Science, University of Lille, France**
+**Master of Computer Science | University of Lille, France**
 **<span id=duration>2012</span>**
 
 &emsp;Specialized in Image Vision and Interaction.
